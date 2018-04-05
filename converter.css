@@ -1,0 +1,17 @@
+body {
+    background-image: url("https://timedotcom.files.wordpress.com/2015/03/150323_inv_femcurrency_kahlo.jpg?quality=85");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+li{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    list-style-position: inside;
+    border: 1px solid black;
+    margin: 10px 10px 10px 10px;
+    background-color: black;
+
+
+}
